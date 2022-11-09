@@ -1,0 +1,4 @@
+INSERT INTO student VALUES(174635,'REGINA MUNDI', 'ELECTRICAL ENGINEERING',2);
+
+
+select * from student where dept_name='ELECTRICAL ENGINEERING'
